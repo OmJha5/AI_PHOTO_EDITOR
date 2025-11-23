@@ -1,5 +1,4 @@
 # Full Stack AI Image Editor
-## https://youtu.be/vr1JL6Fi6K4
 
 ### Make sure to create a `.env` file with following variables -
 
